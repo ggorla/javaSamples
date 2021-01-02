@@ -50,7 +50,7 @@ public class Main {
                     if(listIterator.hasNext()){
                         System.out.println("Now playing song"+listIterator.next().toString());
                     }else{
-                        System.out.println("se have reached end of play list");
+                        System.out.println("se have reached end of play list test");
                         forward=false;
                     }
                     break;
