@@ -27,5 +27,6 @@ public class Product {
                 '}';
     }
 
+    //compare
     public  static final Comparator<Product> BY_WEIGHT = Comparator.comparingInt(Product::getWeight);
 }

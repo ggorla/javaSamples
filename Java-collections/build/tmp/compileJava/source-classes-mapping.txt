@@ -1,4 +1,22 @@
-common/Product.java
- common.Product
+Collection02_list/Shipment.java
+ Collection02_list.Shipment
 Collection01/Main.java
  Collection01.Main
+common/Product.java
+ common.Product
+Collection03_map/NavieProductLookupTable.java
+ Collection03_map.NavieProductLookupTable
+Collection03_map/Product.java
+ Collection03_map.Product
+Collection03_map/ProductLookupTable.java
+ Collection03_map.ProductLookupTable
+Collection03_map/MapProductLookupTable.java
+ Collection03_map.MapProductLookupTable
+Collection03_map/LookupTableComparion.java
+ Collection03_map.LookupTableComparion
+Collection03_map/ProductFixtures.java
+ Collection03_map.ProductFixtures
+Collection03_map/ViewOverMaps.java
+ Collection03_map.ViewOverMaps
+Collection03_map/Java8Enhancments.java
+ Collection03_map.Java8Enhancments
