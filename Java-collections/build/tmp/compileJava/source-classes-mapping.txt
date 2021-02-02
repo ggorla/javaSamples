@@ -2,14 +2,20 @@ Collection03_map/Product.java
  Collection03_map.Product
 Collection03_map/Java8Enhancments.java
  Collection03_map.Java8Enhancments
+Streams/StreamProducts.java
+ Streams.StreamProducts
 common/Product.java
  common.Product
 Collection02_list/Shipment.java
  Collection02_list.Shipment
+Streams/FactoryUnmodifiableMap.java
+ Streams.FactoryUnmodifiableMap
 Basics/ArrayList.java
  Basics.ArrayList
 Collection03_map/ProductFixtures.java
  Collection03_map.ProductFixtures
+Collection01/Main.java
+ Collection01.Main
 Collection03_map/LookupTableComparion.java
  Collection03_map.LookupTableComparion
 Collection03_map/ProductLookupTable.java
@@ -20,7 +26,9 @@ Collection03_map/MapProductLookupTable.java
  Collection03_map.MapProductLookupTable
 Collection03_map/NavieProductLookupTable.java
  Collection03_map.NavieProductLookupTable
-Collection01/Main.java
- Collection01.Main
-Streams/StreamProducts.java
- Streams.StreamProducts
+Lamda/myClass.java
+ Lamda.myClass
+Lamda/MyComparator.java
+ Lamda.MyComparator
+Lamda/Lambda.java
+ Lamda.Lambda

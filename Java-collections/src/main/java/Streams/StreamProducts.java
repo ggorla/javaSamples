@@ -5,7 +5,6 @@ import Collection03_map.Product;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Map;
 import java.util.stream.Collectors;
 
 public class StreamProducts {
@@ -26,10 +25,10 @@ public class StreamProducts {
         products.stream()
                 .filter(product -> product.getWeight() < 29)
                 .sorted(Comparator.comparingInt(Product::getWeight))
-                .collect(Collectors.groupingBy(Product::getName))
+                .collect(Collectors.groupingBy(Product::getName));
 
 
-        System.out.println(lightProducts);
+       // System.out.println(lightProducts);
     }
 
     private static void namesofLightProductsSortedLoopStream(List<Product> products) {
