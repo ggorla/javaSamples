@@ -5,7 +5,7 @@ import static MultiThreadingUdemy.ThreadColor.ANSI_BLUE;
 public class AnotherClass  extends Thread{
     @Override
     public void run() {
-        System.out.println(ANSI_BLUE+Thread.currentThread().getName());
+        System.out.println(ANSI_BLUE+"Hello from "+Thread.currentThread().getName());
         try{
             Thread.sleep(3000);
         }

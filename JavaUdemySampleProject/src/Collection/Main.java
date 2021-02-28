@@ -8,7 +8,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         Theater theater = new Theater("Olampian", 8, 12);
-        List<Theater.Seat> seatCopy = new ArrayList<>(theater.seats);
+        List<Theater.Seat> seatCopy = new ArrayList<>();
 
        /* theater.getSeats();
        if(theater.reserveSeat("H11")){
